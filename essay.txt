@@ -13,3 +13,8 @@ You or some other can make changes in respository file also.
 changes will not be in your local file on that situation you have to pull the file from origin.
 ("git pull origin main")
 
+
+"cd file name" for change directory
+(git branch -a) find the main or master branch
+git branch -M main --change master branch to main
+(git init) means create git hidden folder in our local working folder
