@@ -1,0 +1,2 @@
+Learn git and git hub
+How to push and pull the file
