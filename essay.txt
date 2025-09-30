@@ -1,5 +1,6 @@
 Learn git and git hub
-How to push and pull the file
+________________________
+This method is Github webstite to local 
 create repository with readme file and copy code.
 create folder in desktop open cmd and type "code ." vb code software open.
 There is .git hidden folder in your working folder. 
@@ -10,5 +11,5 @@ Next step is (git commit -m "A made changes")
 Last step is "git push origin main"
 You or some other can make changes in respository file also.
 changes will not be in your local file on that situation you have to pull the file from origin.
-
+("git pull origin main")
 
