@@ -1,2 +1,4 @@
 Learn git and git hub
 How to push and pull the file
+First create txt file in local git and then check status after than "git add ." to folder
+ 
