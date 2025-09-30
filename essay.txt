@@ -1,6 +1,14 @@
 Learn git and git hub
 How to push and pull the file
-First create txt file in local git and then check status after that "git add ." to folder
-Next step is "git commit -m "A made changes" "
+create repository with readme file and copy code.
+create folder in desktop open cmd and type "code ." vb code software open.
+There is .git hidden folder in your working folder. 
+In menu bar after "run" you can see 3 dots click that create new terminal.
+On that terminal window paste code copied from the repsitory ("git clone copy url").
+First create txt file and then check status after that "git add ." to hidden folder
+Next step is (git commit -m "A made changes")
 Last step is "git push origin main"
- 
+You or some other can make changes in respository file also.
+changes will not be in your local file on that situation you have to pull the file from origin.
+
+
